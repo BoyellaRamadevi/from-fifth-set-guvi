@@ -18,7 +18,7 @@ class Ideone
 		{
 			c=a-b;
 		}
-		else if(b>=a)
+		else if(a<b)
 		{
 			c=b-a;
 		}
